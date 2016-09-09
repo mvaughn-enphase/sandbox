@@ -1,0 +1,69 @@
+FRT
+  high freq curve        0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+  low freq curve         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc      inf
+  maxTime                0x00000000 : 0cyc
+  time                   0x00000000 : 0cyc, 0cyc
+
+VRT
+  overvoltage            0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+  undervoltage           0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+                         0x00000000 0x00000000 0x00000000 0x00000000 :     0cyc   0.000V
+  maxTime (unused)       0x00000000 : 0s
+
+FW21
+  modeSelection          0x00000000 : 
+  frequencyStart         0x00000000 : 0.000Hz
+  frequencyStopHigh      0x00000000 : 0.000Hz
+  frequencyStopLow       0x00000000 : 0.000Hz
+  frequencySlope         0x00000000 : 0.000%/Hz
+  frequencyMaxTimeSlope  0x00000000 : 0.000%/min
+  frequencyTimeSlope     0x00000000 : 0.000%/min
+  frequencyStopTime      0x00000000 : 0cyc
+  frequencyStartDelay    0x00000000 : 0cyc
+
+SS
+  mode                   0x00000000 : 
+  reconnectFrequencyLow  0x00000000 : 0.000Hz
+  reconnectFrequencyHigh 0x00000000 : 0.000Hz
+  reconnectVoltageLow    0x00000000 : 0.000V
+  reconnectVoltageHigh   0x00000000 : 0.000V
+  reconnectAiTime        0x00000000 : 0cyc
+  reconnectPowerRampRate 0x00000000 : 0
+  shortAiFailTime        0x00000000 : 0cyc
+  shortAiTime            0x00000000 : 0cyc
+  aiTime                 0x00000000 : 0cyc
+
+PLP
+  maxVar                 0x00000000 : 0
+  maxWatt                0x00000000 : 0
